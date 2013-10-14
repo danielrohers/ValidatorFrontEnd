@@ -10,9 +10,15 @@ This plugin is intended to validate the JavaScript and CSS technologies through 
     grails compile
     grails maven-install
     
-    cd your-project
+    cd YourProject
     grails clean
     grails refresh-dependencies
+    
+# Usage
+In your project execute this scripts:
+
+    grails JSLint
+    grails CSSLint
 
 # Requirements
 * NPM [jslint] (https://npmjs.org/package/jslint)
