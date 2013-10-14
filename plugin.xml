@@ -1,0 +1,16 @@
+<plugin name='validator-front-end' version='0.1' grailsVersion='2.2 &gt; *'>
+  <author>Daniel Röhers Moura</author>
+  <authorEmail>rohersmoura@gmail.com</authorEmail>
+  <title>Validator Front End Plugin</title>
+  <description>This plugin is intended to validate the JavaScript and CSS technologies through JSLint and CSSLint</description>
+  <type>ValidatorFrontEndGrailsPlugin</type>
+  <resources />
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>
